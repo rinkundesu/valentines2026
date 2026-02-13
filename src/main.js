@@ -84,7 +84,7 @@ document.querySelector('#app').innerHTML = `
             <span style="font-size:1rem;">✨</span>
           </div>
           <div class="memory-frame">
-            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBc9NUL5y995fbzo-M31QOyX6m2Cref1iOYVSI3YBfb44EDtQX4nenWkuhqbmhYtQAledbDFFtUNHclehEfRpSVJKxSKiQv_CDhEX4aKlFu5M4c74GlooY7Bh6YMiMs5Wa_l3DLbi1mcTat77XGL36Mr6HS-jQV9DnRwhh7HOklysV04kZqwDuZaXDo_gOgQyOkDQy2WLUu5H9XX8POhAQdFpGKSXYKAWgjpjmkb5gQIdW6spxpFVWz1XzM6KkoiWstn78KuOZVSlKb"
+            <img src="https://drive.google.com/file/d/15Ad83f2JzFIcMquy8BoEI8TB2M6utcNw/view?usp=sharing "
               alt="The First Smile" />
             <div class="overlay"></div>
             <div class="content">
@@ -101,7 +101,7 @@ document.querySelector('#app').innerHTML = `
             <span style="font-size:1rem;">💬</span>
           </div>
           <div class="memory-frame">
-            <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuBL_6xF11NSbe_cMLfwOLcexXHvW6bNXrMVL6j4Q5Jp-z5rtMwIPdq3f6_PrvOmLz6GAkq04sLib90rc9CODhTB9DfS8VvIpCHvGtO2A-KJy2F6J2hIFp94kEtPnKuQLDO16XsyetZxF6fQSq9bIhC_Y1RHZmD8Cs4vW-o0Jfl8j4-Kgn3EB0rjvxovolzmye-nn0mzjAt4u5hGXJCwqKoErfNl65MskbyLLB3wu9AWg2_lNwT9zjsJCWtrh_voeTpNsE23ODiqVH6Q"
+            <img src="https://drive.google.com/file/d/10Ud1HJo0zRKB3rhysc-DdwxyEUb-oblQ/view?usp=sharing"
               alt="The First Conversation" />
             <div class="overlay"></div>
             <div class="content">
